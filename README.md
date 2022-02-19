@@ -7,7 +7,7 @@
 
 - You can check my latest works here:
 - 
-- https://zen-pare-22da83.netlify.app/
+- https://liar-game-demo.netlify.app
 
 
 - 📫 How to reach me:
