@@ -1,8 +1,18 @@
 - 👋 Hi, I’m @artisyn
+- 
 - 👀 I’m interested in frontend web development.
-- 🌱 I’m currently learning Html5, CSS, Javascript, React.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me artioms1@gmail.com
+- 🌱 I’m currently practicing my Html5, CSS, Javascript abd React skills.
+- 💞️ I’m looking for a job in frontend.
+
+
+- You can check my latest works here:
+- 
+- https://zen-pare-22da83.netlify.app/
+
+
+- 📫 How to reach me:
+-
+-   artioms1@gmail.com
 
 <!---
 artisyn/artisyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
