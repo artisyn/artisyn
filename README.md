@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @artisyn
 - 
-- 👀 I’m interested in frontend web development.
+- 👀 I’m a frontend web developer.
 - 🌱 I’m currently practicing my Html5, CSS, Javascript abd React skills.
 - 💞️ I’m looking for a job in frontend.
 
@@ -8,6 +8,9 @@
 - You can check my latest works here:
 - 
 - https://liar-game-demo.netlify.app
+
+
+- https://weather-app-artisyn.netlify.app
 
 
 - 📫 How to reach me:
