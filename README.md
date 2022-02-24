@@ -12,6 +12,8 @@
 
 - https://weather-app-artisyn.netlify.app
 
+- https://notes-app-artisyn.netlify.app
+
 
 - 📫 How to reach me:
 -
