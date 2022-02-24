@@ -6,13 +6,14 @@
 
 
 - You can check my latest works here:
-- 
-- https://liar-game-demo.netlify.app
 
+- https://liar-game-demo.netlify.app
 
 - https://weather-app-artisyn.netlify.app
 
 - https://notes-app-artisyn.netlify.app
+
+- https://quiz-app-artisyn.netlify.app
 
 
 - 📫 How to reach me:
