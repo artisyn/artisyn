@@ -7,7 +7,7 @@
 
 - You can check my latest works here:
 
-- https://liar-game-demo.netlify.app
+- https://liar-game-artisyn.netlify.app
 
 - https://weather-app-artisyn.netlify.app
 
