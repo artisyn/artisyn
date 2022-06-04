@@ -7,6 +7,8 @@
 
 - You can check my latest works here:
 
+- https://e-commerce-artisyn.netlify.app
+
 - https://linguaplacementtest.netlify.app
 
 - https://movies-app-artisyn.netlify.app
