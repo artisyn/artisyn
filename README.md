@@ -11,7 +11,7 @@
 
 - https://linguaplacementtest.netlify.app
 
-- https://movies-app-artisyn.netlify.app
+- https://movies-app2-artisyn.netlify.app
 
 - https://liar-game-artisyn.netlify.app
 
