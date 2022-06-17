@@ -7,6 +7,8 @@
 
 - You can check my latest works here:
 
+-https://lingua-plus.netlify.app
+
 - https://e-commerce-artisyn.netlify.app
 
 - https://linguaplacementtest.netlify.app
